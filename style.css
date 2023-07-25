@@ -1,0 +1,153 @@
+.dr{
+  background-color:  #0D0D0D;
+}
+header{
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  margin: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #0D0D0D;
+}
+#titulo{
+  background-color: red;
+  background-image: url("15.webp") no-repeat center 100px;
+}
+#cuerpo{
+  background-color:#BF7B54;
+}
+#myCarousel{
+  background-color: #0D0D0D;
+ font-style: oblique;
+}
+
+
+#fa{
+  background-color:red;
+border-top-color: black;
+box-shadow: #0D0D0D;
+scrollbar-shadow-color: #0D0D0D;
+font-style: oblique;
+}
+#fe{
+  background-color:red;
+  font-style: oblique;
+}
+#fo{
+  background-color:red;
+  font-style: oblique;
+}
+
+
+
+
+.foto1{
+  float: left;
+}
+  div{
+    font-size: 100%;
+  }
+h1{
+    text-align: center;
+    font-size: xx-large;
+}
+div.a {
+    font-size: 15px;
+  }
+  
+  div.b {
+    font-size: large;
+  }
+  
+  div.c {
+    font-size: 150%;
+  }
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float:left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* Color Theme Swatches in Hex */
+.Copy-of-Vintage-1-hex { color: #F35E75; }
+.Copy-of-Vintage-2-hex { color: #00C5A6; }
+.Copy-of-Vintage-3-hex { color: #95D9C9; }
+.Copy-of-Vintage-4-hex { color: #F1B2A1; }
+.Copy-of-Vintage-5-hex { color: #F36F5E; }
+
+/* Color Theme Swatches in RGBA */
+.Copy-of-Vintage-1-rgba { color: rgba(242, 93, 117, 1); }
+.Copy-of-Vintage-2-rgba { color: rgba(0, 196, 165, 1); }
+.Copy-of-Vintage-3-rgba { color: rgba(149, 216, 200, 1); }
+.Copy-of-Vintage-4-rgba { color: rgba(240, 177, 161, 1); }
+.Copy-of-Vintage-5-rgba { color: rgba(242, 110, 93, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Copy-of-Vintage-1-hsla { color: hsla(0, 86, 66, 1); }
+.Copy-of-Vintage-2-hsla { color: hsla(0, 100, 38, 1); }
+.Copy-of-Vintage-3-hsla { color: hsla(0, 47, 71, 1); }
+.Copy-of-Vintage-4-hsla { color: hsla(0, 74, 78, 1); }
+.Copy-of-Vintage-5-hsla { color: hsla(0, 86, 66, 1); }
+/* Color Theme Swatches in Hex */
+.Cup-of-Coffee-on-wooden-background-1-hex { color: #0A2326; }
+.Cup-of-Coffee-on-wooden-background-2-hex { color: #D9A86C; }
+.Cup-of-Coffee-on-wooden-background-3-hex { color: #F2CDA0; }
+.Cup-of-Coffee-on-wooden-background-4-hex { color: #594C3B; }
+.Cup-of-Coffee-on-wooden-background-5-hex { color: #D97236; }
+
+/* Color Theme Swatches in RGBA */
+.Cup-of-Coffee-on-wooden-background-1-rgba { color: rgba(10, 35, 38, 1); }
+.Cup-of-Coffee-on-wooden-background-2-rgba { color: rgba(217, 168, 108, 1); }
+.Cup-of-Coffee-on-wooden-background-3-rgba { color: rgba(242, 205, 160, 1); }
+.Cup-of-Coffee-on-wooden-background-4-rgba { color: rgba(89, 76, 59, 1); }
+.Cup-of-Coffee-on-wooden-background-5-rgba { color: rgba(217, 114, 54, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Cup-of-Coffee-on-wooden-background-1-hsla { color: hsla(186, 58, 9, 1); }
+.Cup-of-Coffee-on-wooden-background-2-hsla { color: hsla(33, 58, 63, 1); }
+.Cup-of-Coffee-on-wooden-background-3-hsla { color: hsla(32, 75, 78, 1); }
+.Cup-of-Coffee-on-wooden-background-4-hsla { color: hsla(34, 20, 29, 1); }
+.Cup-of-Coffee-on-wooden-background-5-hsla { color: hsla(22, 68, 53, 1); }
+
+/* Color Theme Swatches in Hex */
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-1-hex { color: #D9A7BE; }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-2-hex { color: #D9C2AD; }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-3-hex { color: #BF7B54; }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-4-hex { color: #8C513B; }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-1-rgba { color: rgba(217, 167, 190, 1); }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-2-rgba { color: rgba(217, 194, 173, 1); }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-3-rgba { color: rgba(191, 123, 84, 1); }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-4-rgba { color: rgba(140, 81, 59, 1); }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-5-rgba { color: rgba(13, 13, 13, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-1-hsla { color: hsla(332, 39, 75, 1); }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-2-hsla { color: hsla(28, 36, 76, 1); }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-3-hsla { color: hsla(21, 45, 53, 1); }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-4-hsla { color: hsla(16, 40, 39, 1); }
+.Beautiful-and-happy-young-female-worker-working-in-a-bakery-or-fast-food-restaurant-and-using-coffee-machine.-Positive-people-in-small-business-concept-5-hsla { color: hsla(0, 0, 5, 1); }
+
+
+#postres1{
+  background-color: #0D0D0D;
+}
+#cafeteria1{
+  background-color: #0D0D0D;
+}
