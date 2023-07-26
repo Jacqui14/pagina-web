@@ -10,7 +10,7 @@ Contiene las siguientes secciones
 * Café frio
 * Café caliente
 * Postres
-* Información de contacto
+* Información de contacto 
 
 ## Tecnología 
 
