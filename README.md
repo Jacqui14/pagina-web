@@ -6,7 +6,11 @@ Es una página web responsiva (*adaptable a diversos tamaños de pantalla*).
 
 El propósito del sitio web es mostrar los productos ofertados en la cafeteria "THE COFFEE RIDE", es una página piloto de la cafeteria.
 
-También contiene una sección de almacenamiento de archivos (*imágenes*) que nos permiten modificar la imagen de perffil del desarrollador y contiene una animación en Java desarrollada por JavaSccript.
+Contiene las siguientes secciones 
+* Café frio
+* Café caliente
+* Postres
+* Información de contacto
 
 ## Tecnología 
 
